@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi everyone! I'm currently learning how to make games using Unreal Engine Blueprints and C++. I wan't to be a programmer and a designer too. I love thinking of new ideas and making them come true. My head is full of dreams. :)
 
 <!--
 **MaquinaLocal/MaquinaLocal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
